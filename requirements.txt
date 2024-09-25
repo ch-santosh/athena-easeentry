@@ -1,0 +1,5 @@
+flask
+supabase
+flask-cors
+requests
+beautifulsoup4
